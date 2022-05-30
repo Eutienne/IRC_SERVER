@@ -23,9 +23,23 @@ Clean everything :
 make clean
 ```
 
-
-# CI
-Put all Continuous Integration related stuff here.
+# Command we handle
+    - Away
+    - Invite
+    - Join
+    - Kick
+    - Mode (following options: o, l, i, t, b, k, n)
+    - Nick
+    - Notice
+    - Part
+    - Pass
+    - Ping
+    - Pong
+    - Privmsg
+    - Quit
+    - Topic
+    - User
+    - Welcome
 
 ## Unit Tests
 
