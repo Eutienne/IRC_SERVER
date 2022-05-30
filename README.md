@@ -18,12 +18,16 @@ Run unitests :
 ```
 make test
 ```
+Run functionality tests : 
+```
+make func
+```
 Clean everything :
 ```
 make clean
 ```
 
-# Command we handle
+# Commands we handle
     - Away
     - Invite
     - Join
