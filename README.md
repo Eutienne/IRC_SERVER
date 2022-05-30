@@ -18,19 +18,37 @@ Run unitests :
 ```
 make test
 ```
+Run functionality tests : 
+```
+make func
+```
 Clean everything :
 ```
 make clean
 ```
 
-
-# CI
-Put all Continuous Integration related stuff here.
+# Commands we handle
+    - Away
+    - Invite
+    - Join
+    - Kick
+    - Mode (following options: o, l, i, t, b, k, n)
+    - Nick
+    - Notice
+    - Part
+    - Pass
+    - Ping
+    - Pong
+    - Privmsg
+    - Quit
+    - Topic
+    - User
+    - Welcome
 
 ## Unit Tests
 
-[![macOS](https://github.com/harou24/IRC_SERVER/actions/workflows/macos.yml/badge.svg)](https://github.com/harou24/IRC_SERVER/actions/workflows/macos.yml)
-[![ubuntu](https://github.com/harou24/IRC_SERVER/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/harou24/IRC_SERVER/actions/workflows/ubuntu.yml)
+[![macOS](https://github.com/Eutienne/IRC_SERVER/actions/workflows/macos.yml/badge.svg)](https://github.com/Eutienne/IRC_SERVER/actions/workflows/macos.yml)
+[![ubuntu](https://github.com/Eutienne/IRC_SERVER/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/Eutienne/IRC_SERVER/actions/workflows/ubuntu.yml)
 
 
 # Workflow
